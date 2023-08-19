@@ -4,36 +4,26 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js",
-    "dev": "concurrently \"npm run server\" \"npm run start --prefix client\"",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsantos18121996/seats.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsantos18121996/seats/issues"
+  },
+  "homepage": "https://github.com/jsantos18121996/seats#readme",
   "dependencies": {
-    "axios": "^0.17.1",
-    "body-parser": "^1.18.2",
-    "circular-json": "^0.4.0",
-    "concurrently": "^3.5.1",
-    "cookie-parser": "^1.4.3",
-    "cors": "^2.8.5",
-    "express": "^4.16.2",
-    "express-session": "^1.15.6",
-    "moment": "^2.19.3",
-    "moment-timezone": "^0.5.25",
-    "node-forge": "^1.3.1",
-    "node-rsa": "^1.1.1",
-    "nodemon": "^1.18.8",
-    "pug": "^2.0.4",
-    "redis": "^2.8.0",
-    "uid": "0.0.2",
-    "uuid": "^3.3.3",
-    "winston": "^3.0.0",
-    "winston-daily-rotate-file": "^3.3.0",
-    "xml-js": "^1.6.8",
-    "xml-parser": "^1.2.1"
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
   },
   "devDependencies": {
-    "supertest": "^3.1.0"
+    "nodemon": "^3.0.1"
   }
 }
