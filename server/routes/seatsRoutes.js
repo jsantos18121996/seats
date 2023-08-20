@@ -3,7 +3,7 @@ const SeatsService = require('../services/SeatsService');
 const SeatsAvailiabilityResponseTransfer = require('../transfer/SeatsAvailiabilityResponseTransfer');
 const router = express.Router();
 
-router.get('/seats/search', async (req, res) => {
+router.post('/seats/search', async (req, res) => {
 
     const request = req.body;
     console.log('request in ROUTES /seats/search', request);
