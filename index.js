@@ -1,7 +1,8 @@
 const express = require("express");
 const bodyParser = require('body-parser');
 const app = express();
-const port = 5000;
+require('dotenv').config();
+const PORT = process.env.PORT || 5000;
 
 const apiRoutes = require('./server/routes/apiRoutes');
 
@@ -19,6 +20,7 @@ app.get("/", (req, res) => {
     res.send("Hola mi server en Express");
 });
 
-app.listen(port, () => {
-    console.log("My port: " + port);
+app.listen(PORT, () => {
+    console.log('process.env', process.env);
+    console.log("My port: " + PORT);
 });
