@@ -21,7 +21,8 @@
   "homepage": "https://github.com/jsantos18121996/seats#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "xml-parser": "^1.2.1"
   },
   "devDependencies": {
     "dotenv": "^16.3.1",

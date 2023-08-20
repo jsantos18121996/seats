@@ -16,11 +16,6 @@ app.use(bodyParser.json({
 
 app.use('/api', apiRoutes);
 
-app.get("/", (req, res) => {
-    res.send("Hola mi server en Express");
-});
-
 app.listen(PORT, () => {
-    console.log('process.env', process.env);
     console.log("My port: " + PORT);
 });
