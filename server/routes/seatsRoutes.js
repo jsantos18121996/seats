@@ -1,5 +1,5 @@
 const express = require('express');
-const SeatsService = require('../services/seatsService');
+const SeatsService = require('../services/SeatsService');
 const SeatsAvailiabilityResponseTransfer = require('../transfer/SeatsAvailiabilityResponseTransfer');
 const router = express.Router();
 
