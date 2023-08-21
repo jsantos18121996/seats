@@ -17,15 +17,15 @@ router.post('/seats/search', async (req, res) => {
         res.send({
             ok: true,
             status: 200,
-            message: "Sillas obtenidas exitosamente",
-            seats: data
+            message: "Successfully",
+            data: data
         })
     } catch (error) {
         res.send({
             ok: false,
             status: 200,
             message: error,
-            seats: []
+            data: []
         })
     }
 });
