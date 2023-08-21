@@ -1,5 +1,4 @@
 const seatsRowsAndColumnsFormatter = require("../util/seatsRowsAndColumnsFormatter");
-const seatInfoFormatter = require("../util/seatInfoFormatter");
 
 module.exports = (data) => {
     if (data.error) {
@@ -14,29 +13,38 @@ module.exports = (data) => {
             }
         }
     }
-    const segments = data.pricedOffer[0].originDestination.map( option => {
-        const seatsColumnsAndRows = option.tpaextensions && option.tpaextensions.any.length > 0 ? seatsRowsAndColumnsFormatter(option.tpaextensions.any[0]) : null;
-        return {
-                origin : option.originLocation.locationCode,
-                destination : option.destinationLocation.locationCode,
-                rows : seatsColumnsAndRows ? seatsColumnsAndRows : []
-        }
-    } );
-    const seatInfo = data.pricedOffer[0].seatInfo.tpaextensions && 
-        data.pricedOffer[0].seatInfo.tpaextensions.any.length > 0 ? 
-        seatInfoFormatter(data.pricedOffer[0].seatInfo.tpaextensions.any[0]) : null;
 
-    const passengers = data.traveler.airTraveler.map( airTraveler => {
+    const periods = data.periods.map(p => {
+        const period = p.period;
         return {
-            id : airTraveler.rph,
-            passengerTypeCode : airTraveler.passengerTypeCode,
-            firstName : airTraveler.personName.givenName[0],
-            lastName: airTraveler.personName.surname
+            period
         }
-    } )
+    })
+
+    const terrains = data.periods[0].terrains.map(t => {
+        const terrain = t.terrain;
+        return {
+            terrain
+        }
+    })
+
+    const trees = data.periods.map(period => {
+        const terrains = period.terrains.map(terrain => {
+            const rows = terrain.tpaextensions && terrain.tpaextensions.any.length > 0 ? seatsRowsAndColumnsFormatter(terrain.tpaextensions.any[0]) : null;
+            return {
+                terrain : terrain.terrain,
+                rows
+            }
+        })
+        return {
+            period: period.period,
+            terrains
+        }
+    });
+
     return {
-        segments,
-        passengers,
-        seatInfo
+        trees,
+        periods,
+        terrains
     }
 }
