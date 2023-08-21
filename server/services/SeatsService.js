@@ -1,10 +1,13 @@
+const {
+  search
+} = require('../../config/env').variables.servicesEndpoint;
 const seatsResponse = require('../services/data/seatsRS.json');
 
 class SeatsService {
     async getSeats(request) {
-        //let URI = `${ancillaryOffersCopa}`; 
+       
         console.log('request SeatsService', request);
-        /*let URI = `${ancillaryOffersCopa}`; 
+        /*let URI = `${search}`; 
         this.log(CircularJSON.stringify(request), URI);
         try {
           const response = await axios.post(URI, request);
