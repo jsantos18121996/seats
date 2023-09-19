@@ -1,0 +1,2112 @@
+{
+    "periodCode": "2023-I",
+    "terrainCode": "T001",
+    "rows": [
+        {
+            "number": "1",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.723330944833195"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.00254746954821"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.304669843678745"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.350927858375591"
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.482163259362736"
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.360036175305684"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.774023195550118"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.63981243273587"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.850662438363155"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.948+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.809474879498373"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.233838643591028"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.547575530063638"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.463539021001552"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.908244946743217"
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.492361960452785"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.783179901748309"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.561088441554189"
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.838661116786934"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.445619889132445"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.798841864634953"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.632789968890721"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.165001293877097"
+                }
+            ]
+        },
+        {
+            "number": "6",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.511241369602216"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.731650582455396"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "7.781748360496304"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.127998115482816"
+                }
+            ]
+        },
+        {
+            "number": "7",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.723286640144286"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.1818447596882"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.061378326900645"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.505880672892799"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.549347701365228"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.244079606167599"
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.6038572317235"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.825414480516026"
+                }
+            ]
+        },
+        {
+            "number": "8",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.820172495107029"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.388590631362693"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.801498370232787"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.392697930327966"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.865794551373876"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.176739552303724"
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "9",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.488541560817731"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.482326867379939"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.262101970457142"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.281253000249936"
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "7.934874224296049"
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.59869317111189"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.984035165739453"
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.399499792136094"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.48236386878846"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.946233530609792"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.785291201464446"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.495286310825474"
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.427188866244162"
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.032133265270405"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.272154620848207"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.810122586920276"
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.799985254477278"
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.409638473918735"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.576800158739621"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.148064707735985"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.311662723020289"
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.764250483654768"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.063985486197952"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "7.525136182701133"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.856570834221801"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.949+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.33908516533412"
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.367355512383464"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "15",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.712654875391848"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.140393779698744"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.208164244397148"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        },
+        {
+            "number": "16",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.624532687663734"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.773762993974789"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.541961376604445"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.554540986887634"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.958265823094727"
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "7.955557846826727"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.270730673447268"
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "7.602593194674512"
+                }
+            ]
+        },
+        {
+            "number": "17",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.811270219261491"
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "8.205501103558989"
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.53236233495312"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.03630131397193"
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.833477171058597"
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "S",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "9.834517574846586"
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "blanca porosa",
+                    "percentage": "7.883901218130189"
+                }
+            ]
+        },
+        {
+            "number": "18",
+            "columns": [
+                {
+                    "number": "1",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "2",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "3",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "9.28113995980176"
+                },
+                {
+                    "number": "4",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "8.103833825638125"
+                },
+                {
+                    "number": "5",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.681752901186535"
+                },
+                {
+                    "number": "6",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Cipres",
+                    "percentage": "9.827590726917185"
+                },
+                {
+                    "number": "7",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "8",
+                    "result": null,
+                    "status": "T",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": "Arañita roja",
+                    "percentage": "8.6830722441891"
+                },
+                {
+                    "number": "9",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "10",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "11",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "12",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "13",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                },
+                {
+                    "number": "14",
+                    "result": null,
+                    "status": "A",
+                    "dateAnalysis": "2023-08-29T17:15:30.950+00:00",
+                    "pestsName": null,
+                    "percentage": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,18 +1,26 @@
 const express = require('express');
 const SeatsService = require('../services/SeatsService');
 const SeatsAvailiabilityResponseTransfer = require('../transfer/SeatsAvailiabilityResponseTransfer');
+const SeatsAvailiabilityRequestTransfer = require('../transfer/SeatsAvailiabilityRequestTransfer');
+const SeatsAvailiabilityResponseTransferNew = require('../transfer/SeatsAvailiabilityResponseTransferNew');
 const router = express.Router();
 
 router.post('/seats/search', async (req, res) => {
 
-    const request = req.body;
+    let request = req.body;
     console.log('request in ROUTES /seats/search', request);
+    request = SeatsAvailiabilityRequestTransfer(request);
+    console.log('request in ROUTES 2 /seats/search', request);
 
-    const seatsService = new SeatsService();
+    const seatsService = new SeatsService({
+        sessionID: null,
+        IPAddress: null
+    });
 
     try {
         const response = await seatsService.getSeats(request);
-        const data = SeatsAvailiabilityResponseTransfer(response);
+        console.log('response in ROUTES ', response);
+        const data = SeatsAvailiabilityResponseTransferNew(response);
 
         res.send({
             ok: true,
