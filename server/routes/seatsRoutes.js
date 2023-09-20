@@ -42,7 +42,7 @@ router.post('/seats/book', async (req, res) => {
     console.log('req ', req.body);
     try {
         res.send({
-            ok:true,
+            ok: true,
             status: 200,
             message: "Asiento seleccionado con éxito!"
         })
@@ -55,4 +55,59 @@ router.post('/seats/book', async (req, res) => {
     }
 });
 
+router.get('/seats/search/:id', async (req, res) => {
+    console.log('req.params', req.params);
+    const seatsService = new SeatsService({
+        sessionID: null,
+        IPAddress: null
+    });
+
+    try {
+        const response = await seatsService.getSeatsByPlantId(req.params.id);
+
+        res.send({
+            ok: true,
+            status: 200,
+            message: "Successfully",
+            data: response.data
+        })
+    } catch (error) {
+        res.send({
+            ok: false,
+            status: 200,
+            message: error,
+            data: []
+        })
+    }
+
+})
+
+router.post('/terrains/search', async (req, res) => {
+    let request = req.body;
+    console.log('request in ROUTES /seats/search', request);
+
+    const seatsService = new SeatsService({
+        sessionID: null,
+        IPAddress: null
+    });
+
+    try {
+        const response = await seatsService.getTerrainsByPeriod(request);
+        console.log('response in ROUTES ', response);
+
+        res.send({
+            ok: true,
+            status: 200,
+            message: "Successfully",
+            data: response.data
+        })
+    } catch (error) {
+        res.send({
+            ok: false,
+            status: 200,
+            message: error,
+            data: []
+        })
+    }
+})
 module.exports = router;

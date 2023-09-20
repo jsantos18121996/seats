@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "code": "T001",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "15"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "11"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "2"
+                }
+            ]
+        },
+        {
+            "code": "T002",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "20"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "10"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "3"
+                }
+            ]
+        },
+        {
+            "code": "T003",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "48"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "5"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "1"
+                }
+            ]
+        },
+        {
+            "code": "T004",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "33"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "8"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "4"
+                }
+            ]
+        },
+        {
+            "code": "T005",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "40"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "15"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "6"
+                }
+            ]
+        },
+        {
+            "code": "T006",
+            "results": [
+                {
+                    "type": "sano",
+                    "quantity": "52"
+                },
+                {
+                    "type": "enfermo",
+                    "quantity": "10"
+                },
+                {
+                    "type": "ND",
+                    "quantity": "7"
+                }
+            ]
+        }
+    ]
+}
