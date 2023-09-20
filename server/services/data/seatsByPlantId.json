@@ -6,7 +6,7 @@
             "periodCode": "2022-1",
             "fechaAnalisis": "2022-02-10",
             "agricultor": "Juan Pablo",
-            "resultadoCode": "A"
+            "resultadoCode": "Sano"
         },
         {
             "plantaId": "T01-1-1",
@@ -14,7 +14,7 @@
             "periodCode": "2022-2",
             "fechaAnalisis": "2022-09-10",
             "agricultor": "Pedro Quispe",
-            "resultadoCode": "A"
+            "resultadoCode": "Sano"
         },
         {
             "plantaId": "T01-1-1",
@@ -22,7 +22,7 @@
             "periodCode": "2023-1",
             "fechaAnalisis": "2023-02-12",
             "agricultor": "Alex Lora",
-            "resultadoCode": "T"
+            "resultadoCode": "Enfermo"
         },
         {
             "plantaId": "T01-1-1",
@@ -30,7 +30,7 @@
             "periodCode": "2023-1",
             "fechaAnalisis": "2023-02-10",
             "agricultor": "Luis Vega",
-            "resultadoCode": "T"
+            "resultadoCode": "Enfermo"
         },
         {
             "plantaId": "T01-1-1",
@@ -38,7 +38,7 @@
             "periodCode": "2023-2",
             "fechaAnalisis": "2023-09-10",
             "agricultor": "Jaime Rivas",
-            "resultadoCode": "A"
+            "resultadoCode": "Sano"
         },
         {
             "plantaId": "T01-1-1",
@@ -46,7 +46,7 @@
             "periodCode": "2023-2",
             "fechaAnalisis": "2023-09-10",
             "agricultor": "Julian Romero",
-            "resultadoCode": "ND"
+            "resultadoCode": "No determinado"
         }
     ]
 }
