@@ -2,7 +2,7 @@ const axios = require('axios');
 const CircularJSON = require('circular-json');
 const Service = require('./Service');
 const {
-  search
+  reportOne, reportTwo, reportThree
 } = require('../../config/env').variables.servicesEndpoint;
 const seatsResponse = require('../services/data/seatsRS2.json');
 const seatsByPlantByIdResponse = require('../services/data/seatsByPlantId.json');
@@ -23,7 +23,7 @@ class SeatsService extends Service {
         return error;
       }
     } else {
-      let URI = `${search}`;
+      let URI = `${reportOne}`;
       console.log('request ', request, URI);
       try {
         const response = await axios.post(URI, request);
@@ -40,10 +40,11 @@ class SeatsService extends Service {
   }
 
   async getSeatsByPlantId(id) {
-    let mockeado = true;
+    let mockeado = false;
     console.log('plantById -> ', id);
     if (mockeado) {
       try {
+        console.log('request mock ', id);
         return seatsByPlantByIdResponse;
         /*return {//para probar lo que muestra la tabla visual cuando no encuentra resultados
           data : []
@@ -57,8 +58,9 @@ class SeatsService extends Service {
         };
       }
     } else {
-      let URI = `${search}/id/${id}`;
-      console.log('request ', request, URI);
+      console.log("joder que no sale ");
+      let URI = `${reportTwo}/${id}`;
+      console.log('request ', URI);
       try {
         const response = await axios.get(URI);
         console.log('response ', CircularJSON.stringify(response.data));
@@ -75,7 +77,7 @@ class SeatsService extends Service {
 
   async getTerrainsByPeriod(request) {
 
-    let mockeado = true
+    let mockeado = false
 
     if (mockeado) {
       try {
@@ -85,7 +87,7 @@ class SeatsService extends Service {
         return error;
       }
     } else {
-      const URI = `${search}/terrains`;
+      const URI = `${reportThree}`;
       console.log('request ', request, URI);
       try {
         const response = await axios.post(URI, request);
